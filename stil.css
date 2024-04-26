@@ -10,3 +10,19 @@
 .plavi{
     background-color: lightblue!important;
 }
+
+body{
+    background-color: pink!important;
+}
+#phoneTable{
+    padding: 5px;
+    text-align: center;
+    background-color: white;
+}
+.ajdevise{
+    text-align: center;
+}
+.molimteodi{
+    text-align: center;
+    margin-left: 50px;
+}
