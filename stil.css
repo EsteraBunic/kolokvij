@@ -1,0 +1,12 @@
+.nav-item:hover{
+    color:blue !important; 
+}
+.nav-link:hover{
+    color:blue !important; 
+}
+.sivi{
+    background-color: rgb(191, 191, 191)!important;
+}
+.plavi{
+    background-color: lightblue!important;
+}
